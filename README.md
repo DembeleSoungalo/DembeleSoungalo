@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DembeleSoungal
+- 👋 Hi, I’m @DembeleSoungalo
 - 👀 I’m interested in Web Developement
 - I aleready learned HTML , CSS , Boostrap ,SASS, 
 - 🌱 I’m currently learning JavaScript , node.js,
