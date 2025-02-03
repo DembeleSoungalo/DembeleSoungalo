@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DembeleSoungalo junior Web Dev
 - 👀 I’m interested in Web Developement
-- I aleready learned HTML , CSS , Boostrap ,SASS, 
-- 🌱 I’m currently learning JavaScript , node.js,
+- I aleready learned HTML , CSS , Boostrap ,SASS,JavaScript,Reactjs
+- 🌱 I’m currently learning TypeSrcipt, node.js,
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me dembelesalam27@gmail.com
 - 😄 Pronouns: Salam
